@@ -12,8 +12,13 @@
 }
 
 .bordo_personale{
-     border-bottom: lawngreen 1px solid;
+     border-bottom: #cccccc 1px solid;
      border-top: none;
      border-right: none;
      border-left: none;
+}
+
+.send_colore{
+     background-color: #1abc9c;
+     border-color:#1abc9c ;
 }
