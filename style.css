@@ -10,3 +10,10 @@
 .border_arrotondato{
      border-radius: 1rem;
 }
+
+.bordo_personale{
+     border-bottom: lawngreen 1px solid;
+     border-top: none;
+     border-right: none;
+     border-left: none;
+}
