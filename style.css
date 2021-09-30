@@ -22,3 +22,11 @@
      background-color: #1abc9c;
      border-color:#1abc9c ;
 }
+
+.colore_footer{
+     background-color: #3a546d;
+}
+
+.no_underline{
+     text-decoration: none;
+}
