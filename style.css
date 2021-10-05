@@ -30,3 +30,9 @@
 .no_underline{
      text-decoration: none;
 }
+
+.barra_laterale_stella{
+     
+     height: 7px;
+     border-radius: 7px;
+}
